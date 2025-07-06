@@ -1,35 +1,44 @@
-# 🌟 Stylish BMI Calculator (Web App)
+# 💪 BMI Calculator Web App
 
-A modern, responsive Body Mass Index (BMI) calculator with:
-- 💎 Glassmorphism UI
-- 🌙 Dark Mode toggle
-- 📏 Unit conversion (cm/kg ↔ ft/in & lbs)
-- 🔄 Loading animation
-- 🔥 Mobile responsive design
+A modern, responsive BMI calculator with unit conversion, dark mode, and stylish glassmorphism UI — built using HTML, CSS, and JavaScript.
 
-## 🚀 Features
-- Switch between **Metric** and **Imperial** units
-- Color-coded BMI result: Underweight, Normal, Overweight, Obese
-- Stylish UI with animations and gradients
-- Works on all devices!
 
-## 🛠 Tech Stack
-- HTML, CSS (Glassmorphism, Animations)
-- JavaScript (BMI logic, conversions)
-- Deployed on [GitHub Pages][https://shailu0720.github.io/bmi-calculator/](https://shailu0720.github.io/bmi-calculator/)
+## 🔗 Live Demo
 
-## 📷 Preview
-![screenshot](screenshot.png)
+👉 [https://shailu0720.github.io/bmi-calculator/](https://shailu0720.github.io/bmi-calculator/)
 
-## 📦 How to Run
-1. Clone the repo
-2. Open `index.html` in any browser
 
-## 📚 Learnings
-- DOM manipulation
-- CSS animations
-- Responsive layout
-- BMI math logic
+## 🖼️ Preview
 
-## 🧑‍💻 Author
-Made with ❤️ by P SHAILAJA
+![BMI Calculator Screenshot](screenshot.png)
+
+
+## ⚙️ Features
+
+- 🌓 Toggle between **Dark Mode** and **Light Mode**
+- 📏 Supports both **Metric** (cm/kg) and **Imperial** (ft/in/lbs)
+- 🎨 Stylish **Glassmorphism UI**
+- 🔄 **Animated loading spinner** while calculating
+- ✅ BMI result with category tag (Underweight, Normal, etc.)
+- ⚠️ Notes for unit clarification (100 lbs ≈ 45.35 kg)
+- 📱 **Mobile-friendly** and responsive design
+
+
+## 📦 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript 
+- Hosted on **GitHub Pages**
+
+---
+
+## ✨ Author
+
+Made with ❤️ by [P Shailaja](https://github.com/shailu0720)
+
+---
+
+## 📄 License
+
+MIT License – free to use and modify.
